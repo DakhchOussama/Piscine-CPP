@@ -1,40 +1,4 @@
 # Piscine-CPP
-## C++ Fundamentals
-
-C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes.”
-
-### 🔄 Difference between C and C++
-
-C++ was developed as an extension of [C](https://www.w3schools.com/c/index.php), and both languages have almost the same syntax.
-
-The main difference between C and C++ is that C++ supports classes and objects, while C does not.
-
-### 🖋 Syntax
-
-**Line 1:** `#include <iostream>` is a header file library that lets us work with input and output objects, such as `cout` (used in line 5). Header files add functionality to C++ programs.
-
-**Line 2:** `using namespace std` means that we can use names for objects and variables from the standard library.
-
-### ⚙ Scope Resolution Operator in C++
-
-In C++, the scope resolution operator is `::`. It is used to access global variables with local variables of the same name and to define a function outside a class.
-
-### 🌐 Difference between Namespace and Library
-
-A namespace is used to differentiate similar functions, variables, etc., with the same name in different libraries. The `iostream` library, for example, is part of the `std` namespace.
-
-### 📚 C++ std Identifiers
-
-All standard library identifiers provided by header files like `<iostream>`, `<string>`, `<vector>`, etc., are declared in the `std` namespace.
-
-### ➖ Line Continuation
-
-Outside of quoted strings, a backslash `\` is used as a line continuation character.
-
-### 📥 Input
-
-`cin` is a predefined variable that reads data from the keyboard with the extraction operator (`>>`).
-# Piscine-CPP
 
 ## C++ Fundamentals
 
